@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5f1f7cf-f51a-4442-bdb6-32d6dd1b82b3" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bakhtiiar/todo/addTaskWindow.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d5f1f7cf-f51a-4442-bdb6-32d6dd1b82b3" name="Changes" comment="Added a template for the main scene and scene changing functionality">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bakhtiiar/todo/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bakhtiiar/todo/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bakhtiiar/todo/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bakhtiiar/todo/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/bakhtiiar/todo/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/bakhtiiar/todo/main-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +22,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3474b119-66d8-443e-a726-19ffd40e98a9" />
+        <option name="url" value="https://github.com/bakhtiiartashbolotov/ToDo.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -61,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704194334496</updated>
       <workItem from="1704194335473" duration="1594000" />
-      <workItem from="1704202527570" duration="6391000" />
+      <workItem from="1704202527570" duration="7427000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -71,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704196630678</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added a template for the main scene and scene changing functionality">
+      <option name="closed" value="true" />
+      <created>1704209352320</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704209352320</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,7 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Added a template for the main scene and scene changing functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a template for the main scene and scene changing functionality" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
