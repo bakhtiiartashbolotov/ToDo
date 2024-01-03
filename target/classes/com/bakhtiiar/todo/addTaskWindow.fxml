@@ -12,8 +12,8 @@
    <children>
       <FlowPane alignment="CENTER" orientation="VERTICAL" prefHeight="401.0" prefWidth="600.0" vgap="20.0">
          <children>
-            <TextField prefHeight="43.0" prefWidth="422.0" promptText="Title..." />
-            <TextField prefHeight="47.0" prefWidth="422.0" promptText="Description..." />
+            <TextField fx:id="titleInputField" prefHeight="43.0" prefWidth="422.0" promptText="Title..." />
+            <TextField fx:id="descriptionInputField" prefHeight="47.0" prefWidth="422.0" promptText="Description..." />
             <DatePicker fx:id="datePicker" />
             <HBox alignment="TOP_RIGHT" prefHeight="44.0" prefWidth="411.0">
                <children>

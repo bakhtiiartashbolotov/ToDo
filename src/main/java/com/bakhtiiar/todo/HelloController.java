@@ -12,10 +12,6 @@ import javafx.scene.control.TextField;
 import javafx.stage.Stage;
 
 import java.io.IOException;
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.util.Date;
-import java.util.Objects;
 
 public class HelloController {
 
@@ -56,6 +52,7 @@ public class HelloController {
             alert.setContentText("Select the date!");
             alert.showAndWait();
         }else{
+
             Parent root = FXMLLoader.load(getClass().getResource("main-view.fxml"));
             stage = (Stage) ((Node)event.getSource()).getScene().getWindow();
             scene = new Scene(root);
